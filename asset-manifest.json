@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bakery_react/static/css/main.d256e3bc.css",
+    "main.js": "/bakery_react/static/js/main.4056ff1f.js",
+    "static/js/787.b701888c.chunk.js": "/bakery_react/static/js/787.b701888c.chunk.js",
+    "index.html": "/bakery_react/index.html",
+    "main.d256e3bc.css.map": "/bakery_react/static/css/main.d256e3bc.css.map",
+    "main.4056ff1f.js.map": "/bakery_react/static/js/main.4056ff1f.js.map",
+    "787.b701888c.chunk.js.map": "/bakery_react/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d256e3bc.css",
+    "static/js/main.4056ff1f.js"
+  ]
+}
